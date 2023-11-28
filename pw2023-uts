@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Logo</h1>
+            <ul>
+                <li>Home</li>
+                <li>Product</li>
+                <li>Service</li>
+                <li>About</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div>
+            <h1>Hello World!</h1>
+        </div>
+        <aside></aside>
+    </main>
+    <footer>
+        <span>@Yourname</span>
+    </footer>
+</body>
+</html>
